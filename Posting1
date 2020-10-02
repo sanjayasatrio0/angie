@@ -1,0 +1,145 @@
+<html>
+<head>
+ <title>BANJARNEGARA</title>
+ <link rel="stylesheet" type="text/css"
+ media="all" href="style77.css">
+</head>
+<body>
+
+ <div id="layout">
+ <div id="header">
+ <img width="1330"height="600"src="banjarnegara.jpeg" class="header">
+ </div>
+ <div id="menu">
+ <ul>
+ <li><a href="angieCoding.html">Beranda</a></li>
+ <li><a href="profil.html">Tentang Saya</a></li>
+ <li><a href="kontak.html">Kontak Kami</a></li>
+ </ul>
+ </div>
+ <div id="runningtext">
+ <marquee behavior="scroll" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();" direction="left">
+ Selamat Datang di Website Saya
+ </marquee>
+ </div>
+ <div id="sidebar">
+ <div class="widged">
+ <h1 class="judulwidged">Posting Teratas</h1>
+ <ul>
+ <li> <a href="posting1.html">BANJARNEGARA</a> </li>
+
+ <li> <a href="dieng1.html">SEJARAH & WISATA DIENG BANJARNEGARA</a> </li>
+ 
+ <li> <a href="https://www.adventuretravel.co.id/blog/dieng-dari-asal-usul-hingga-keistimewaannya
+"target="blank">DIENG BANJARNEGARA</a></li>
+ <li> <a href="posting2.html"> GEOGRAFI & TOPOGRAFI</a> </li>
+ </ul>
+ </div>
+ </div>
+ <div id="isi">
+ <div class="isipostingall">
+ <h2>FAKTA-FAKTA BANJARNEGARA</h2>
+ <img width="1330"height="600" src="bna2.jpeg" class="gambarposting1">
+ <ul>
+ <li><h3>BANJARNEGARA</h3></li>
+ </ul>
+ <p>Ki Ageng Maliu pendiri Desa Banjar
+
+Dalam riwayat berdirinya Kabupaten Banjarnegara disebutkan bahwa seorang tokoh masyarakat yang bernama Kyai Maliu sangat tertarik akan keindahan alam di sekitar Kali Merawu sebelah selatan jembatan Clangap (sekarang). Keindahan tersebut antara lain karena tanahnya berundak, berbanjar sepanjang kali.
+</p>
+ <p>Sejak saat itu, Kyai Maliu kemudian mendirikan pondok/rumah sebagai tempat tinggalnya yang baru. Setelah Kyai Maliu tinggal di tempat barunya tersebut, dalam waktu singkat disusul pula dengan berdirinya rumah-rumah penduduk yang lain di sekitar pondok Kyai Maliu sehingga kemudian membentuk suatu perkampungan. Perkampungan tersebut terus berkembang waktu-demi waktu yang akhirnya menjadi sebuah desa.
+
+Desa baru tersebut kemudian dinamakan “Banjar” sesuai dengan daerahnya yang berupa sawah yang berpetak-petak. Atas dasar musyawarah penduduk desa baru tersebut Kyai Maliu diangkat menjadi pertinggi (Kepala Desa), sehingga kemudian dikenal dengan nama “Kyai Ageng Maliu Pertinggi Banjar”.
+
+Keramaian dan kemajuan desa Banjar dibawah kepemimpinan Kyai Ageng Maliu semakin pesat tatkala kedatangan Kanjeng Pengeran Giri Wasiat, Panembahan Siri Pit dan Nyai Sekati yang sedang mengembara dalam rtangka syiar Agama Islam. Ketiganya merupakan putera Sunan Giri, Raja di Giri Gajah Gresik yang bergelar Prabu Satmoko.
+
+Sejak kedatangan Pangeran Giri Pit, desa Banjar menjadi pusat pengembangan Agama islam. Kyai Ageng Maliu semakin bertambah kemampuannya dalamm hal agama Islam dan dalam hal memimpin Desa Banjar. Karena kepemimpinannya itulah Desa Banjar semakin berkembang dan semakinn ramai.
+
+Desa Banjar yang didirikan oleh Kyai Ageng Maliu inilah pada akhirnya menjadi cikal bakal Kabupaten Banjarnegara.</p>
+ <ul>
+ <li><h3> Inilah Fakta tentang Banjarnegara:</h3></li>
+ </ul>
+ <p> Dalam riwayat berdirinya Kabupaten Banjarnegara disebutkan bahwa seorang tokoh masyarakat yang bernama Kyai Maliu sangat tertarik akan keindahan alam di sekitar Kali Merawu sebelah selatan jembatan Clangap (sekarang). Keindahan tersebut antara lain karena tanahnya berundak, berbanjar sepanjang kali.</p>
+ <p> Sejak saat itu, Kyai Maliu kemudian mendirikan pondok/rumah sebagai tempat tinggalnya yang baru. Setelah Kyai Maliu tinggal di tempat barunya tersebut, dalam waktu singkat disusul pula dengan berdirinya rumah-rumah penduduk yang lain di sekitar pondok Kyai Maliu sehingga kemudian membentuk suatu perkampungan. Perkampungan tersebut terus berkembang waktu-demi waktu yang akhirnya menjadi sebuah desa.</p>
+ <p> Desa baru tersebut kemudian dinamakan “Banjar” sesuai dengan daerahnya yang berupa sawah yang berpetak-petak. Atas dasar musyawarah penduduk desa baru tersebut Kyai Maliu diangkat menjadi pertinggi (Kepala Desa), sehingga kemudian dikenal dengan nama “Kyai Ageng Maliu Pertinggi Banjar”.</p>
+ <p> Keramaian dan kemajuan desa Banjar dibawah kepemimpinan Kyai Ageng Maliu semakin pesat tatkala kedatangan Kanjeng Pengeran Giri Wasiat, Panembahan Siri Pit dan Nyai Sekati yang sedang mengembara dalam rtangka syiar Agama Islam. Ketiganya merupakan putera Sunan Giri, Raja di Giri Gajah Gresik yang bergelar Prabu Satmoko.</p>
+ <p> Sejak kedatangan Pangeran Giri Pit, desa Banjar menjadi pusat pengembangan Agama islam. Kyai Ageng Maliu semakin bertambah kemampuannya dalamm hal agama Islam dan dalam hal memimpin Desa Banjar. Karena kepemimpinannya itulah Desa Banjar semakin berkembang dan semakinn ramai.</p>
+ <p> Desa Banjar yang didirikan oleh Kyai Ageng Maliu inilah pada akhirnya menjadi<strong> cikal bakal Kabupaten Banjarnegara.</strong></p>
+ <ul>
+ <li><h3>   Awal Pemerintahan Kabupaten Banjarnegara</h3></li>
+ <p> Setelah wafatnya Adipati Wargo Utomo I (Adipati Wirasaba) dalam perjalanan pulang setelah menghadap Sultan Hadiwijaya (Sultan Pajang) akibat adanya kesalahpahaman Utusan (Gandek) dari Kerajaan pajang dalam mengartikan perintah Sultan Hadiwijaya yang diperkuat dengan fitnah Demang Toyareka (Adik Adipati Wargo Hutomo), pucuk pimpinan Kabupaten Wirasaba mengalami kekosongan.</p>
+ <p> Untuk selanjutnya Kabupaten Wirasaba dipimpin oleh Patihh yang telah mewakili Adipati sejak menghadap Sultan.</p>
+ <p> Para Putera Adipati tidak ada yang berani menggantikan kedudukan ayahnya sebelum mendapat izin dari Kanjengg Sultan Hadiwijaya di Pajang.</p>
+ <p>Menyadari kesalahannya yang menyebabkan wafatnya Adipati Wargo Utomo I, Sultan Hadiwijaya mengutus tumenggung Tambakbaya mengirimkan surat kepada keluarga Adipati Wargo Utomo I di Wirasaba yang isinya mengharapkan kehadiran salah satu putera Adipati Wargo Utomo I menghadap Sultan.</p>
+ <p> Namun demikian tidak satupun dari putera Adipati Hargo Utomo I yang bersedia menghadap kanjeng Sultan Hadiwijaya. Hal ini dikarenakan disamping duka akibat peristiwa terbunuhnya ayahandanya belum sepenuhnya hilang, muncul perasaan khawatir bilamana ternyata mendapat perlakuan serupa.</p>
+ <p>Akhirnya Tumenggung Tambakbaya meminta Joko Kaiman (menantu Adipati) untuk memenuhi panggilann Sultan menghadap ke Pajang. Atas persetujuan saudara-saudara iparnya, berangkatlah Joko Kaiman menghadap<strong> Sultan Hadiwijaya</strong> di Pajang.</p>
+ <p>Sesampainya di Pajang, Sultan menjelaskan duduk permasalahan sehingga Adipati Hargo Hutomo terbunuh dan menyempaikan permohonan maaf kepada semua putera Adipati dan masyarakat Wirasaba. Dalam kesempatan itu pula, Sultan Hadiwijaya mengangkat Joko Kaiman menjadi Bupati Wirasaba menggantikan Adipati Wargo Hutomo I, yang kemudian bergelar Adipati Wargo Hutomo II.</p>
+ <p>Menyadari statusnya hanya sebagai putera menantu, maka demi menjaga keutuhan keluarga, setelah diangkat menjadi Bupati, Joko Kaiman (Wargo Hutomo II) mengeluarkan kebijakan yaitu membagi Kabupaten Wirasaba menjadi 4 (empat) kabupaten kecil untuk saudara-saudara iparnya, yaitu:</p>
+ <p>1) Kabupaten Wirasaba diserahkan kepada Kyai Ngabei Wargo Wijoyo;</p>
+ <p>2) Kabupaten Merden, diserahkan kepada Kyai Ngabei Wiro Kusumo;</p>
+ <p>3) Kabupaten Banjar Petambakan diserahkan kepada Kyai Ngabei Wiroyudo, dan</p>
+ <p>4) Kabupaten Banyumas di Daerah Kejawar dipimpin sendiri oleh Wargo Hutomo II.</p>
+ <p>Kebijakan ini disetujui semua saudara iparnya dan mendapatkan izin dari Sultan pajang.</p>
+ <p>Karena kebijakannya membagi Daerah Wirasaba menjadi 4(empat) kabupaten tersebut, Kyai Adipati Wargo Hutomo II mendapat julukan Adipati Mrapat.</p>
+ <p>Peristiwa tersebut merupakan awal adanya pemerintahan Kabupaten Banjar Petambakan, cikal bakal Kabupaten Banjarnegara.</p>
+ <ul>
+ <li><h3> Kabupaten Banjar Petambakan</h3></li>
+ </ul>
+ <p>Kyai Ngabehi Wiroyudo merupakan Bupati Banjar Petambakan pertama yang memerintah pada ± Tahun 1582 (melihat Pendopo Kabupaten Banyumas di Kejawar oleh Wargo Hutomo II, yang merupakan salahh satu pecahan dari Kabupaten Wirasaba tercatat tahun 1582).</p>
+ <p>Namun siapa pengganti Kyai Ngabehi Wiroyudo sampai R. Ngabehi Banyakwide diangkat sebagai Kliwon Banyumas yang bermukim di Banjar Petambakan tidak diketahui, karena tidak ada/belum ditemukan sumber/catatan tertulis. </p>
+ <p>. Ada kemungkinan Kabupaten Banjar Petambakan di bawah Kyai Ngabehi Wiroyudo tidak berkembang (tidak lestari) seperti halnya Kabupaten Merden yang diperintah R. Ngabei Warga Wijaya dan Kabupaten Wirasaba yang diperintah R. Ngabei Wirakusuma. Tidak demikian halnya dengan Kabupaten Banyumas R. Adipati Wargo Hutomo II yang dapat bertahan dan terus berkembang.</p>
+ <p>R. Banyakwide adalah putera R. Tumenggung Mertoyudo (Bupati Banyumas ke-4). Dari sini terlihat bahwa selama 3 (tiga) periode kepemimpinan Bupati di Kabupaten Banyumas (setelah Wargo Hutomo II) sampai dengan Bupati ke-4 (R.T. Mertoyudo), Kabupaten Banjar Petambakan tidak tercatat ada yang memerintah.</p>
+ <p>Karena cukup lama tidak ada yang memerintah, maka setelah diangkatnya R. Banyakwide sebagai Kliwon Banyumas tetapi bermukim di Banjar Petambakan, ada yang menyebut Banyak wide adalah Bupati Banjar Petambakan Pertama setelah Pemerintahan Ngabehi Wiroyudo.</p>
+ <p>R. banyak wide mempunyai 4 (empat) putera, yaitu:</p>
+ <p>1) Kyai Ngabehi Mangunyudo;</p>
+ <p>2) R. Kenthol Kertoyudo;</p>
+ <p>3)R. bagus Brata;</p>
+ <p>4)Mas Ajeng Basiah.</p>
+ <p>Sepeninggal R. banyakwide Kabupaten Banjar Petambakan diperintah oleh R. Ngabehi Mangunyudo I yang kemudian dikenal dengan julukan Hadipati Mangunyudo Sedo Loji (Banteng), karena beliau gugur di loji saatt perang melawan Belanda di Kartosuro.</p>
+ <p>Kebenciannya terhadap Belanda ditunjukkan sewaktu ada perang Pracino (Pecinan) yaitu pemberontakan oleh Bangsa Tionghoa kepada VOC saat Mataram dipimpin Paku Buwono II.</p>
+ <p>R. Ngabehi Mangunyudo I sebagai Bupati manca minta izin untuk menghancurkan Loji VOC di Kartasura. Paku Buwono II mengizinkannya dengan suatu permintaan agar R. Ng Mangunyudo tidak membunuh pasangan suami isteri orang Belanda yang berada di loji paling atas.</p>
+ <p>Akhirnya perang sengitpun terjadi antara prajurit Mangunyudo I dengan pasukan VOC (tahun 1743). </p>
+ <p>Melihat prajuritnya banyak yang tewas, Adipati Mangunyudo I sangat marah, seluruh penghuni loji dibunuhnya, bahkan beliau lupa pesan Sri Susuhunan Pabu Buwono II. Melihat masih ada orang Belanda yang masih hidup di bagian paling atas loji, R. Mangunyudo I mengejarnya dan berusaha membunuh pasangan suami isteri orang Belanda, yang sebenarnya adalah Pakubuwono II dan Permaisuri yang sedang menyamar.</p>
+ <p> Merasa terancam jiwanya, Pakubuwono II akhirnya membunuh Adipati Mangunyudo I yang sedang kalap di loji VOC. Sebab itulah kemudian Adipati Mangunyudoo I dikenal dengan sebutan Adipati Mangunyudo Sedo Loji.</p>
+ <ul>
+ <li><h3> Kabupaten Banjar Watu Lembu</h3></li>
+ </ul>
+ 
+ <p> Berdasarkan sumber/buku “Inti Silsilah dan Sejarah Banyumas”
+
+Setelah Adipati Mangunyudo I wafat, disebutkan bahwa pengganti Bupati Banjar Petambakan adalah puteranya yang bergelar R. Ngabehi Mangunyudo II, yang dikebal dengan R. Ngabehi Sedo Mukti.</p>
+ <p>Di era kepemimpinannya, kabupaten dipindahkan ke sebelah barat Sungai Merawu dengan nama Kabupaten Banjar Watu Lembu (Banjar Selo Lembu).</p>
+ <p>R. Ngabehi Mangunyudo II merupakan Bupati Banjar Watu Lembu pertama, yang kemudian digantikan oleh puteranya, bergelar R. Ngabehi Mangunyudo III yang kemudian berganti nama menjadi Kyai R. Ngabehi Mangunbroto, Bupati Anom Banjar Selolembu. Masih dari sumber yang sama, R. Ngabehi Mangunbroto wafat karena bunuh diri.</p>
+ <p>Penggantinya adalah R.T. Mangunsubroto yang memerintah Kabupaten Banjar Watu Lembu sampai Tahun 1831.</p>
+ <p>Karena Kabupaten Banjar Watu Lembu sangat antipasti terhadap Belanda, maka setelah Perang Diponegoro dimana kemenangan dipihak Belanda, kabupaten Banjar Watu Lembu diturunkan statusnya menjadi distrik dengan dua penguasa yaitu R. Ngabehi Mangunsubroto dan R. Ng. Ranudirejo.</p>
+ <p>Berdasarkan sumber “Register sarasilah Keturunan R. Ngabehi Banyakwide dan Register Catatan Legenda Riwayat Kanjeng Sunan Giri Wasiat, Kyai Panembahan Giri Pit, Nyai Ageng Sekati”</p>
+ <p>Dalam sumber tersebut disebutkan bahwa yang menggantikan Mangunyudo I adalah R. Ngabehi Kenthol Kertoyudo yang kemudian bergelar R. Ngabehi Mangunyudo II. Dalam Perang Diponegoro lebih dikenal dengan R. Tumenggung Kertonegoro III atau Mangunyudo Mukti.</p>
+ <p>Pada masa pemerintahannya, kabupaten dipindahkan ke sebelah barat Sungai Merawu dan kemudian dinamakan Kabupaten “Banjar Watulembu”.</p>
+ <p>Sikap Adipati Manyunyudo II yang sangat antipasti terhadap Belanda dan bahkan turut memperkuat pasukan Diponegoro dalam perang melawan Belanda (dimana perang tersebut berakhir dengan kemenangan di pihak Belanda), berakibat R. Ngabehi Mangunyudo II dipecat sebagai Bupati banjar Watu Lembu. Dan pada saat itu pula status Banjar Watu Lembu diturunkan menjadi distrik dengan dua penguasa yaitu R. Ngabehi Mangun Broto dan R. Ngabehi Ranudirejo.</p>
+ <p>Terlepas sumber mana yang benar, para pemimpin/Bupati Banjar mulai dari Mangunyudo I sampai Mangunsubroto atau Mangunyudo II, semuanya anti penjajah Belanda.</p>
+ <ul>
+ <li><h3>Kabupaten Banjarnegara</h3></li>
+ </ul>
+ <p>Karena selama perang Diponegoro dapat mengatasi pasukan Pangeran Diponegoro yang dibantu oleh pasukan dari Kabupaten Banjarwatulembu dan dianggap berjasa kepada Kerajaan Mataram (pada waktu itu terdapat ikatan perjanjian dengan Belanda), raden Tumenggung Dipoyudho IV yang pernah menjabat Ngabehi dii Purbalingga dan kemudian diangkat menjadi tumenggung Ayah selama 25 Tahun, oleh Belanda diusulkan kepada Sri Susuhunan Paku Buwono VII untuk ditetapkan menjadi Bupati Banjar (Banjar Watu Lembu).</p>
+ <p>Setelah mendapat izin, maka berdasarkan Resolutie Governeur General Buitenzorg tanggal 22 Agustus 1831 Nomor I, maka Raden Tumenggung Dipoyudho IV resmi menjabat Bupati Banjar Watu Lembu.</p>
+ <p>Beberapa saat setelah pengangkatannya, raden Tumenggung Dipoyudho IV meminta izin kepada Paku Buwana VII di Kasunanan Surakarta untuk memindahkan kota kabupaten ke sebelah selatan Sungai Serayu. Setelah permintaan tersebut dikabulkan, maka dimulailah pembangunan kota kabupaten yang semula berupa daerah persawahan.</p>
+ <p>Untuk mengenang asal mula kota kabupaten baru yang berupa persawahan dan telah dibangun menjadi kota, kabupaten baru tersebut diberi nama “BANJARNEGARA” (MEMPUNYAI MAKSUD Sawah = Banjar, berubah menjadi kota = Negara) sampaii sekarang.</p>
+ <p>Setelah segala sesuatunya siap, Raden Tumenggung Dipoyudo IV sebagai Bupati beserta semua pegawai kabupaten pindah dari Banjar Watu Lembu ke kota kabupaten yang baru Banjarnegara</p>
+ <p>Dikarenakan pada saat pengangkatannya status Kabupaten Banjar Watu Lembu yang terdahulu dihapus, maka Raden Tumenggung Dipoyudho IV dikenal sebagai Bupati Banjarnegara I (pertama).</p>
+ <p>Peristiwa pengangkatan Raden Tumenggung Dipoyudho IV pada tanggal 22 Agustus 1831 sebagai Bupati Banjarnegara inilah yang dijadikan dasar untuk penetapan Hari Jadi Kabupaten Banjarnegara, yaitu dengan Keputusan DPRD Kabupaten Dati II Banjarnegara tanggal 1 Juli 1981 dan Peraturan daerah Kabupaten Daerah Tingkat II Banjarnegara Nomor 3 Tahun 1994 tentang Hari Jadi Kabupaten Banjarnegara.</p>
+ 
+ </div>
+ </div>
+ <div id="footer"> &copy 2020, by Angie </div>
+ </div>
+ <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/7.21.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="/__/firebase/7.21.1/firebase-analytics.js"></script>
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
+</body>
+</html>
