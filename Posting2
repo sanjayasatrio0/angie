@@ -1,0 +1,79 @@
+<html>
+<head>
+ <title>BANJARNEGARA GILAR-GILAR</title>
+ <link rel="stylesheet" type="text/css"
+ media="all" href="style77.css">
+</head>
+<body>
+
+ <div id="layout">
+ <div id="header">
+ <img width="1330"height="600"src="banjarnegara.jpeg" class="header">
+ </div>
+ <div id="menu">
+ <ul>
+ <li><a href="angieCoding.html">Beranda</a></li>
+ <li><a href="profil.html">Tentang Saya</a></li>
+ <li><a href="kontak.html">Kontak Kami</a></li>
+ </ul>
+ </div>
+ <div id="runningtext">
+ <marquee behavior="scroll" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();" direction="left">
+ Selamat Datang di Website Saya
+ </marquee>
+ </div>
+ <div id="sidebar">
+ <div class="widged">
+ <h1 class="judulwidged">Posting Teratas</h1>
+ <ul>
+ <li> <a href="posting1.html">BANJARNEGARA</a> </li>
+ <li> <a href="dieng1.html">SEJARAH & WISATA DIENG BANJARNEGARA</a> </li>
+ 
+ <li> <a href=" https://www.adventuretravel.co.id/blog/dieng-dari-asal-usul-hingga-keistimewaannya
+"target="blank">DIENG BANJARNEGARA</a></li>
+ <li> <a href="posting2.html"> GEOGRAFI & TOPOGRAFI</a> </li>
+ </ul>
+ </div>
+ </div>
+ <div id="isi">
+ <div class="isipostingall">
+ <h2>GEOGRAFI & TOPOGRAFI</h2><br>
+ <img width="1330"height="600"src="geografis.jpeg" class="gambarposting1">
+ <ul>
+ <li><h3>GEOGRAFI</h3></li>
+ </ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Bentang alam berdasarkan bentuk tata alam dan penyebaran geografis, wilayah ini dapat dibagi menjadi 3 bagian, yaitu:</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Zona Utara, adalah kawasan pegunungan yang merupakan bagian dari Dataran Tinggi Dieng, Pegunungan Serayu Utara. Daerah ini memiliki relief yang curam dan bergelombang. Di perbatasan dengan Kabupaten Pekalongan dan Kabupaten Batang terdapat beberapa puncak, seperti Gunung Rogojembangan dan Gunung Prahu. Beberapa kawasan digunakan sebagai objek wisata, dan terdapat pula pembangkit listrik tenaga panas bumi. Zona sebelah utara meliputi kecamatan Kalibening, Pandanarum, Wanayasa, Pagentan, Pejawaran, Batur, Karangkobar, Madukara</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Zona Tengah, merupakan zona Depresi Serayu yang cukup subur. Bagian wilayah ini meliputi kecamatan Banjarnegara, Ampelsari, Bawang, Purwanegara, Mandiraja, Purworejo Klampok, Susukan, Wanadadi, Banjarmangu, Rakit</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Zona Selatan, merupakan bagian dari Pegunungan Serayu Selatan, merupakan daerah pegunungan yang memiliki relief curam meliputi kecamatan Pagedongan, Banjarnegara, Sigaluh, Mandiraja, Bawang, Susukan.</p>
+
+<ul>
+<li><h3>TOPOGRAFI</h3></li>
+</ul>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Topografi wilayah ini sebagian besar (65% lebih) berada di ketinggian antara 100 s/d 1000 meter dari permukaan laut. Secara rinci pembagian wilayah berdasarkan topografi.</p>
+
+<p>Kurang dari 100 m dari permukaan air laut, meliputi luas 9,82 % dari seluruh luas wilayah Kabupaten Banjarnegara, meliputi Kecamatan Susukan dan Purworejo Klampok, Mandiraja, Purwanegara dan Bawang.</p>
+<p>Antara 100 – 500 m dari permukaan air laut, meliputi luas 37,04 % dari seluruh luas wilayah Kabupaten Banjarnegara, meliputi Punggelan, Wanadadi, Rakit, Madukara, sebagian Susukan, Mandiraja, Purwanegara, Bawang, Pagedongan, Banjarmangu dan Banjarnegara.</p>
+<p>Antara 500 -1.000 m dari permukaan air laut, meliputi luas 28,74% dari seluruh luas wilayah Kabupaten Banjarnegara, meliputi Kecamatan Sigaluh, sebagian Banjarnegara, Pagedongan dan Banjarmangu.</p>
+<p>Lebih dari 1.000 m dari permukaan air laut, meliputi luas 24,40% dari seluruh wilayah Kabupaten Banjarnegara meliputi kecamatan Pejawaran, Batur, Wanayasa, Kalibening, Pandanarum, Karangkobar dan Pagentan.</p>
+<p>Sungai Serayu mengalir menuju ke Barat, serta anak-anak sungainya termasuk Kali Tulis, Kali Merawu, Kali Pekacangan, Kali Gintung dan Kali Sapi. Sungai tersebut dimanfaatkan sebagai sumber irigasi pertanian.</p>
+<p>Wilayah kabupaten Banjarnegara memiliki iklim tropis, dengan curah hujan rata-rata 3.000 mm/tahun, serta suhu rata-rata 20°- 26 °C.</p>
+ </div>
+ </div>
+ <div id="footer"> &copy 2020, by Angie </div>
+ </div>
+ <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/7.21.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="/__/firebase/7.21.1/firebase-analytics.js"></script>
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
+</body>
+</html>
